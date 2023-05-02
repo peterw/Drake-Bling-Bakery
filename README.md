@@ -25,4 +25,4 @@ When the Streamlit app opens in your browser, you can enter a topic in the input
 
 ## License
 
-[MIT License](LICENSE)
+MIT License
